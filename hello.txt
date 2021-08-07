@@ -19,4 +19,4 @@ hello git!hello,zqq
 hello git!hello,zqq
 hello git!hello,zqq
 hello git!hello,zqq master test
-hello git!hello,zqq
+hello git!hello,zqq hot-fix test
